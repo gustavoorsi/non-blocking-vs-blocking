@@ -1,0 +1,5 @@
+server:
+  port: 8181
+  tomcat:
+    max-threads: 50
+    accessLogEnabled: true
